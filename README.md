@@ -7,7 +7,7 @@
 
 ## Overview
 
-This report provides insights into Admin and Business Users licenses from your Delinea Secret Server. It is designed for Managers and Product Owners for better understanding and determining the necessary Admin and Business licenses.
+This report provides insights into Admin and Business Users licenses from your Delinea Secret Server. It is designed for Managers, Product Owners, and Technical Secret Server Admins for a better understanding and determination of the necessary Admin and Business licenses. This tool aids Technical Secret Server Admins in supplying comprehensive reports to management.
 
 ### Challenges Addressed
 
