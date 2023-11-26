@@ -42,7 +42,7 @@ To use this reporting feature, you need to tag metadata on Groups to define a us
   - Value: 
     - `-1` for all Admin Users
     - `0` for all Business Users
-    - A positive number (e.g., `3`) to specify the number of Admin users. The rest will be counted as Business Users.
+    - Value: A positive number (e.g., `3`) to specify the number of Admin users. The rest will be counted as Business Users.
 
 - **Description:**
   - Type: TEXT
