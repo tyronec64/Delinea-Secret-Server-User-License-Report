@@ -91,7 +91,7 @@ To use this reporting feature, you need to tag metadata on Groups to define a us
 ## TODO
 
 - Resolve the metadata entry bug in Delinea Secret Server.
-- Implement workarounds for metadata entry issues.
+- ~~Implement workarounds for metadata entry issues.~~ (in the queries, we search for the actual names, not id's or numbers"
 - Create The Compliance report to validate the tagged adminration amounts on the Primary License Groups
 
 
