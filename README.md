@@ -50,7 +50,7 @@ To use this reporting feature, you need to tag metadata on Groups to define a us
 
 - **MaintainedBy:**
   - Type: TEXT
-  - Value: Department or system managing the membership and responsible for the AdminUserRatio setting.
+  - Value: Department or system managing the membership and that is responsible for the AdminUserRatio setting / Estimate
 
 #### In Reports:
 
