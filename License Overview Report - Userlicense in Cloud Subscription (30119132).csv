@@ -1,0 +1,8 @@
+﻿Code,DisplayName,Description,Units,StartDate,EndDate,Recurrence,Note,
+ADD-SSC-CONN-MAN,Secret Server Cloud Subscription - Connection Manager,,30,2018-12-06T01:00:00,2024-04-14T02:00:00,YEAR,,
+SSC-ENGINE,Secret Server Cloud Subscription - Engines Per Site,,1,2018-12-06T01:00:00,2024-04-14T02:00:00,YEAR,,
+SSC-PLATINUM,Secret Server Cloud Subscription - Platinum Edition,,1,2018-12-06T01:00:00,2024-04-14T02:00:00,YEAR,,
+SSC-SECRETS,Secret Server Cloud Subscription - Secrets,,10000,2018-12-06T01:00:00,2024-04-14T02:00:00,YEAR,,
+SSC-SITE,Secret Server Cloud Subscription - Sites,,2,2018-12-06T01:00:00,2024-04-14T02:00:00,YEAR,,
+SSC-USR,Secret Server Cloud Subscription - 150 Users,,150,2018-12-06T01:00:00,2024-04-14T02:00:00,YEAR,,
+SSC-USR-BUS,Secret Server Cloud Subscription - 200 Business Users,,200,2018-12-06T01:00:00,2024-04-14T02:00:00,YEAR,,
