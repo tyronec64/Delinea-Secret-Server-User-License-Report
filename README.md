@@ -76,6 +76,15 @@ To use this reporting feature, you need to tag metadata on Groups to define a us
 - **CSV Demo Data Files:**
   - `License Overview Report - Userlicense in Cloud Subscription.csv`
   - `License Overview Report - Userlicense Usage.csv`
+ 
+## MD5SUM
+
+613a86298c05b2d51a7e6f57038ab0d2  DelineaUserLicenseReport-v2.1.2-(30119132).xlsm
+3b83ef96387f14655fc854ddc3c6bd57  LICENSE.txt
+f80b100004652fde883e29e4a7f8c85b  License Overview Report - USerlicense Usage (30119132).sql
+531cd19d070abe35e5384d534a7ab676  License Overview Report - Userlicense Usage (30119132).csv
+fd6272c23f3fcc120ff85fe7bfb4e321  License Overview Report - Userlicense in Cloud Subscription (30119132).csv
+6b997383d50ac7eb2ac802766cca91be  License Overview Report - Userlicense in Cloud Subscription (30119132).sql
 
 ## TODO
 
