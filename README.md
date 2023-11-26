@@ -82,3 +82,18 @@ To use this reporting feature, you need to tag metadata on Groups to define a us
 - Resolve the metadata entry bug in Delinea Secret Server.
 - Implement workarounds for metadata entry issues.
 - Create The Compliance report to validate the tagged adminration amounts on the Primary License Groups
+
+
+Copyright 2023 Jan Dijk
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
